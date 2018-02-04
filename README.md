@@ -13,3 +13,6 @@ Group of making tools, programs payloads etc.
 
 (Add your suggestions as a pull request)
 
+# Done payloads that can be improved:
+
+1. USB PWNR
