@@ -18,6 +18,10 @@ Group of making tools, programs payloads etc.
 1. USB PWNR
 2. AV Killer:
 * Add support for Northon, Avast, AVG, Mcafee, and Panda
+3. USB Persistent CPU-Miner
+* making the miner run on RNDIS.
+* the DLL that kills miner when task manager or AV scans are initiated
+
 
 # Idea's
 1. Program that shuts of when taskmanager is opend
