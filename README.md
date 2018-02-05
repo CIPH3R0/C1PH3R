@@ -16,3 +16,6 @@ Group of making tools, programs payloads etc.
 # Done payloads that can be improved:
 
 1. USB PWNR
+
+# Idea's
+1. Program that shuts of when taskmanager is opend
