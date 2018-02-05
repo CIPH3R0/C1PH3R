@@ -1,0 +1,17 @@
+Config.txt is set up as following:
+
+<algorithm>
+
+<stratum>
+
+<email/wallet>
+
+<threads/cores>
+
+
+Example: 
+
+cryptonight
+stratum+tcp://fcn-xmr.pool.minergate.com:45590
+equalizercolander@protonmail.com
+4
