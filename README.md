@@ -19,8 +19,8 @@ Group of making tools, programs payloads etc.
 2. AV Killer:
 * Add support for Northon, Avast, AVG, Mcafee, and Panda
 3. USB Persistent CPU-Miner
-* making the miner run on RNDIS.
-* the DLL that kills miner when task manager or AV scans are initiated
+* making the miner download trugh RNDIS (instead of storage.)
+* A DLL that kills miner when task manager or AV scans are initiated
 
 
 # Idea's
