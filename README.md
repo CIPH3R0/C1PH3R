@@ -16,6 +16,8 @@ Group of making tools, programs payloads etc.
 # Done payloads that can be improved:
 
 1. USB PWNR
+2. AV Killer:
+* Add support for Northon, Avast, AVG, Mcafee, and Panda
 
 # Idea's
 1. Program that shuts of when taskmanager is opend
